@@ -1,6 +1,6 @@
 # pokefind
 
-A new Flutter project.
+Custom Pokedex with using PokeAPI
 
 ## Getting Started
 
